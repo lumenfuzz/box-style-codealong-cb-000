@@ -104,6 +104,12 @@ img, video, audio, iframe, table, form {
 
 /*/////// SOCIAL ////////*/
 
+.white-wood {
+  background: url(../images/);
+}
+
+/*/////// SOCIAL ////////*/
+
 #social {
   position: fixed;
   top: 185px;
