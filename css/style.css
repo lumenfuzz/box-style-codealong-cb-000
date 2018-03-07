@@ -105,7 +105,7 @@ img, video, audio, iframe, table, form {
 /*/////// SOCIAL ////////*/
 
 .white-wood {
-  background: url(../images/white-wood.jpg);
+  background: url(../images/white-wood.jpg) no-repeat center top;
 }
 
 /*/////// SOCIAL ////////*/
